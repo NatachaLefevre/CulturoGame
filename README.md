@@ -3,7 +3,7 @@ Plateforme de jeux et quizz sur le thème de Paris
 
 CulturoGame propose notamment aux utilisateurs de découvrir des monuments et œuvres en se déplaçant dans Paris, tout en s'amusant.
 
-##Fonctionnement
+## Fonctionnement
 
 Les utilisateurs se connectent à CulturoGame, et accèdent à plusieurs jeux et applications liés à des monuments, expositions et événements culturels parisiens, et qui leur permettent à la fois de se cultiver, s'amuser et gagner des récompenses.
 Ils ont ainsi accès à des quizz, des chasses aux trésors, ou encore à des informations sur les expos du moment.
@@ -14,7 +14,7 @@ Mon travail sur ce projet a consisté à réfléchir aux besoins et au parcours 
 ![CulturoGame_montage](https://github.com/user-attachments/assets/a7ee71f2-935a-4f9b-ba6a-996bc70be75e)
 
 
-##CulturoGo
+## CulturoGo
 
 Parmi les jeux disponibles, CulturoGo est une chasse aux trésors sur le même principe que Pokemon Go.
 Le joueur choisit un thème de jeu, et grâce à la géolocalisation de son téléphone parcourt les alentours à la recherche d'œuvres disséminées dans Paris.
