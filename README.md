@@ -23,3 +23,11 @@ Quand l'œuvre est trouvée, le joueur poursuit l'aventure en découvrant des in
 Plusieurs thèmes avec chacun plusieurs zones de recherche sont disponibles.
 
 ![CulturoGo_montage](https://github.com/user-attachments/assets/7a3f585f-b331-4233-a75c-f7fb8e792d2f)
+
+
+## Plus d'infos
+https://www.facebook.com/culturogame/
+
+## Ils en parlent
+https://www.leparisien.fr/hauts-de-seine-92/au-parc-de-sceaux-on-peut-attraper-louis-xiv-comme-un-pokemon-31-07-2018-7839459.php
+https://fr.slideshare.net/slideshow/culturogame-une-plateforme-de-jeux-numriques-culturelle/90908261
