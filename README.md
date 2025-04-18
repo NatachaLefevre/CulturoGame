@@ -17,8 +17,10 @@ Mon travail sur ce projet a consisté à réfléchir aux besoins et au parcours 
 ## CulturoGo
 
 Parmi les jeux disponibles, CulturoGo est une chasse aux trésors sur le même principe que Pokemon Go.
+
 Le joueur choisit un thème de jeu, et grâce à la géolocalisation de son téléphone parcourt les alentours à la recherche d'œuvres disséminées dans Paris.
 Quand le joueur est proche d'une œuvre, une cible apparaît à l'écran avec un indice pour trouver l'œuvre.
+
 Quand l'œuvre est trouvée, le joueur poursuit l'aventure en découvrant des informations sur l'œuvre et en répondant à une question. Puis l'œuvre rejoint sa collection qu'il pourra partager avec les autres joueurs.
 Plusieurs thèmes avec chacun plusieurs zones de recherche sont disponibles.
 
